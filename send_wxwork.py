@@ -6,10 +6,10 @@ import urllib3
 urllib3.disable_warnings()
 
 # Corpid企业号ID
-Corpid = "ww956fb91b8644e9ac"
+Corpid = "ww956fb91b8644e9acd"
 
 # Secret应用凭证密钥
-Secret = "0B55fRp86ZkJt_2E47uw3yPRuY7C700KGcw94Vr8cO0"
+Secret = "0B55fRp86ZkJt_2E47uw3yPRuY7C700KGcw94Vr8cO01"
 
 # 自建应用ID
 Agentid = "1000004"
